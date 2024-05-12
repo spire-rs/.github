@@ -1,7 +1,7 @@
 <p align="center">
-	<a>🌱 sources</a>
+	<a href="https://github.com/spire-rs/spire">🌱 sources</a>
 	<span>·</span>
-	<a>📦 crates.io</a>
+	<a href="https://crates.io/crates/spire">📦 crates.io</a>
 	<span>·</span>
-	<a>📄 docs.rs</a>
+	<a href="https://docs.rs/spire/latest/spire/">📄 docs.rs</a>
 </p>
