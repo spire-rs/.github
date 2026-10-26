@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/spire-rs/spire/main/.github/assets/logo.png" alt="Spire" width="104" height="104" />
-
-# Spire
-
 **The flexible crawler and scraper framework for Rust.**
 
 Crawl websites over HTTP or in real browsers, route every page to a typed
